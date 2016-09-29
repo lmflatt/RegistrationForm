@@ -1,0 +1,6 @@
+2016-09-29 15:08:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+UPDATE user SET name = ?, address = ?, email = ? WHERE id = ? [42102-192]
+2016-09-29 15:08:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+UPDATE user SET name = ?, address = ?, email = ? WHERE id = ? [42102-192]
